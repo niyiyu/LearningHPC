@@ -1,4 +1,4 @@
-FC = mpifort
+FC = mpif90
 FCFLAGS = -O3
 DFLAG = _with_mpi
 BLASDIR = #/opt/intel/blas
